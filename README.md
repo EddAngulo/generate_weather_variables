@@ -38,3 +38,19 @@ Todos los datasets (archivos `.csv`) de las variables previamente mencionadas es
 - `UnidadMedida`
 
 En el desarrollo del notebook solo se tomaron en consideración las columnas `FechaObservacion`, `ValorObservado` y `Departamento`.
+
+# Unir (Merge) Datasets
+
+[Jupyter Notebook](https://github.com/EddAngulo/generate_weather_variables/blob/main/src/merge_datasets.ipynb) desarrollado unir los distintos datasets en uno solo.
+
+## Dependencias
+- [holidays](https://pypi.org/project/holidays/)
+- [jupyter](https://jupyter.org/)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+
+## Instalar dependencias
+Para instalar las depedencias necesarias se debe usar `pip3 install -r requirements.txt` en el directorio del proyecto.
+
+## Datasets
+Los archivos `.csv` y `.xlsx` se deben guardar en el directorio correspondiente especificado en el Notebook. Estos directorios se generan automáticamente al ejecutar la sección `Creación del Árbol de Directorios` en el Notebook.
