@@ -6,3 +6,4 @@ jupyter>=1.0
 xgboost>=1.5
 scikit-learn>=0.24
 holidays>=0.13
+xlrd==1.2.0
