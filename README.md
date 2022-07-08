@@ -39,7 +39,7 @@ Todos los datasets (archivos `.csv`) de las variables previamente mencionadas es
 
 En el desarrollo del notebook solo se tomaron en consideración las columnas `FechaObservacion`, `ValorObservado` y `Departamento`.
 
-# Unir (Merge) Datasets
+# Merge Datasets
 
 [Jupyter Notebook](https://github.com/EddAngulo/generate_weather_variables/blob/main/src/merge_datasets.ipynb) desarrollado unir los distintos datasets en uno solo.
 
