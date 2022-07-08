@@ -48,6 +48,7 @@ En el desarrollo del notebook solo se tomaron en consideración las columnas `Fe
 - [jupyter](https://jupyter.org/)
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
+- [xlrd](https://xlrd.readthedocs.io/en/latest/)
 
 ## Instalar dependencias
 Para instalar las depedencias necesarias se debe usar `pip3 install -r requirements.txt` en el directorio del proyecto.
